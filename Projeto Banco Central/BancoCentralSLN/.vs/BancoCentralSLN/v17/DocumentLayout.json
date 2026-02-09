@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "E:\\MeusEstudosGuilherme\\GitHub\\Atividades_Escola\\Projeto Banco Central\\BancoCentralSLN\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0BED310F-1696-4211-9B3A-3529BA8BE76A}|BancoCentral\\BancoCentral.csproj|e:\\meusestudosguilherme\\github\\atividades_escola\\projeto banco central\\bancocentralsln\\bancocentral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BED310F-1696-4211-9B3A-3529BA8BE76A}|BancoCentral\\BancoCentral.csproj|solutionrelative:bancocentral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BED310F-1696-4211-9B3A-3529BA8BE76A}|BancoCentral\\BancoCentral.csproj|e:\\meusestudosguilherme\\github\\atividades_escola\\projeto banco central\\bancocentralsln\\bancocentral\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BED310F-1696-4211-9B3A-3529BA8BE76A}|BancoCentral\\BancoCentral.csproj|solutionrelative:bancocentral\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0BED310F-1696-4211-9B3A-3529BA8BE76A}|BancoCentral\\BancoCentral.csproj|e:\\meusestudosguilherme\\github\\atividades_escola\\projeto banco central\\bancocentralsln\\bancocentral\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BED310F-1696-4211-9B3A-3529BA8BE76A}|BancoCentral\\BancoCentral.csproj|solutionrelative:bancocentral\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BED310F-1696-4211-9B3A-3529BA8BE76A}|BancoCentral\\BancoCentral.csproj|e:\\meusestudosguilherme\\github\\atividades_escola\\projeto banco central\\bancocentralsln\\bancocentral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BED310F-1696-4211-9B3A-3529BA8BE76A}|BancoCentral\\BancoCentral.csproj|solutionrelative:bancocentral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BED310F-1696-4211-9B3A-3529BA8BE76A}|BancoCentral\\BancoCentral.csproj|e:\\meusestudosguilherme\\github\\atividades_escola\\projeto banco central\\bancocentralsln\\bancocentral\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BED310F-1696-4211-9B3A-3529BA8BE76A}|BancoCentral\\BancoCentral.csproj|solutionrelative:bancocentral\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +31,57 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MeusEstudosGuilherme\\GitHub\\Atividades_Escola\\Projeto Banco Central\\BancoCentralSLN\\BancoCentral\\Program.cs",
+              "RelativeDocumentMoniker": "BancoCentral\\Program.cs",
+              "ToolTip": "E:\\MeusEstudosGuilherme\\GitHub\\Atividades_Escola\\Projeto Banco Central\\BancoCentralSLN\\BancoCentral\\Program.cs*",
+              "RelativeToolTip": "BancoCentral\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T11:48:44.362Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Banco.cs",
               "DocumentMoniker": "E:\\MeusEstudosGuilherme\\GitHub\\Atividades_Escola\\Projeto Banco Central\\BancoCentralSLN\\BancoCentral\\Banco.cs",
               "RelativeDocumentMoniker": "BancoCentral\\Banco.cs",
-              "ToolTip": "E:\\MeusEstudosGuilherme\\GitHub\\Atividades_Escola\\Projeto Banco Central\\BancoCentralSLN\\BancoCentral\\Banco.cs*",
-              "RelativeToolTip": "BancoCentral\\Banco.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "ToolTip": "E:\\MeusEstudosGuilherme\\GitHub\\Atividades_Escola\\Projeto Banco Central\\BancoCentralSLN\\BancoCentral\\Banco.cs",
+              "RelativeToolTip": "BancoCentral\\Banco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T11:53:54.516Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transacao.cs",
+              "DocumentMoniker": "E:\\MeusEstudosGuilherme\\GitHub\\Atividades_Escola\\Projeto Banco Central\\BancoCentralSLN\\BancoCentral\\Transacao.cs",
+              "RelativeDocumentMoniker": "BancoCentral\\Transacao.cs",
+              "ToolTip": "E:\\MeusEstudosGuilherme\\GitHub\\Atividades_Escola\\Projeto Banco Central\\BancoCentralSLN\\BancoCentral\\Transacao.cs*",
+              "RelativeToolTip": "BancoCentral\\Transacao.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T12:03:18.531Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\MeusEstudosGuilherme\\GitHub\\Atividades_Escola\\Projeto Banco Central\\BancoCentralSLN\\BancoCentral\\Program.cs",
-              "RelativeDocumentMoniker": "BancoCentral\\Program.cs",
-              "ToolTip": "E:\\MeusEstudosGuilherme\\GitHub\\Atividades_Escola\\Projeto Banco Central\\BancoCentralSLN\\BancoCentral\\Program.cs",
-              "RelativeToolTip": "BancoCentral\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAArAAAAAAAAAA==",
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "E:\\MeusEstudosGuilherme\\GitHub\\Atividades_Escola\\Projeto Banco Central\\BancoCentralSLN\\BancoCentral\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "BancoCentral\\ContaBancaria.cs",
+              "ToolTip": "E:\\MeusEstudosGuilherme\\GitHub\\Atividades_Escola\\Projeto Banco Central\\BancoCentralSLN\\BancoCentral\\ContaBancaria.cs",
+              "RelativeToolTip": "BancoCentral\\ContaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T11:48:44.362Z",
+              "WhenOpened": "2026-02-09T12:05:39.247Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]
