@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MeusEstudosGuilherme\\GitHub\\Atividades_Escola\\Projeto Banco Central\\BancoCentralSLN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BED310F-1696-4211-9B3A-3529BA8BE76A}|BancoCentral\\BancoCentral.csproj|e:\\meusestudosguilherme\\github\\atividades_escola\\projeto banco central\\bancocentralsln\\bancocentral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BED310F-1696-4211-9B3A-3529BA8BE76A}|BancoCentral\\BancoCentral.csproj|solutionrelative:bancocentral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MeusEstudosGuilherme\\GitHub\\Atividades_Escola\\Projeto Banco Central\\BancoCentralSLN\\BancoCentral\\Program.cs",
+              "RelativeDocumentMoniker": "BancoCentral\\Program.cs",
+              "ToolTip": "E:\\MeusEstudosGuilherme\\GitHub\\Atividades_Escola\\Projeto Banco Central\\BancoCentralSLN\\BancoCentral\\Program.cs",
+              "RelativeToolTip": "BancoCentral\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T11:48:44.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
