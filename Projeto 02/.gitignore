@@ -1,0 +1,16 @@
+*.vsidx
+/Projeto Banco Central/BancoCentralSLN/BancoCentral/bin
+/Projeto Banco Central/BancoCentralSLN/.vs/BancoCentralSLN/v17
+/Projeto Banco Central/BancoCentralSLN/.vs/BancoCentralSLN/v17
+/Projeto Banco Central/BancoCentralSLN/BancoCentral/obj
+*.cache
+*.v2
+*.v2
+/Projeto 02/Projeto02SLN/Projeto02/obj
+/Projeto 02/Projeto02SLN/.vs/Projeto02SLN.slnx/v18
+/Projeto 02/Projeto02SLN/Projeto02/bin
+*.pyproj
+*.bin
+/Projeto 02/Projeto02Fase03SLN/Projeto02Fase03/bin
+/Projeto 02/Projeto02Fase03SLN/Projeto02Fase03/obj
+/Projeto 02/Projeto02Fase03SLN/.vs/Projeto02Fase03SLN/v17
