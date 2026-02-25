@@ -11,7 +11,7 @@ class Program
         meuBanco.CodigoBACEN = "";
 
 
-        Transacao minhaTransacao = new Transacao();
+        Transacao minhaTransacao = new TransacaoPix();
 
         minhaTransacao.Valor = -50.00m;
 

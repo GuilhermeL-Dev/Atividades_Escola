@@ -1,6 +1,6 @@
 ﻿
 
-public class Transacao
+public abstract class Transacao
 {
     protected decimal _valor;
 
