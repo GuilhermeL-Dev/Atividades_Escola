@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Projeto02
 {
-    internal class ContaCorrente
+    internal class ContaCorrente : ContaBancaria
     {
+        public override void CalcularTarifa() => Saldo -= 15.00m;
     }
 }

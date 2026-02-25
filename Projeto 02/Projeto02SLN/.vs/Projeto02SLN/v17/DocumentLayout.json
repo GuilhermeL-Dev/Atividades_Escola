@@ -7,8 +7,36 @@
       "RelativeMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|e:\\meusestudosguilherme\\atividades_escola\\projeto 02\\projeto02sln\\projeto02\\transacaoted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\transacaoted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|e:\\meusestudosguilherme\\atividades_escola\\projeto 02\\projeto02sln\\projeto02\\transacaopix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\transacaopix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|e:\\meusestudosguilherme\\atividades_escola\\projeto 02\\projeto02sln\\projeto02\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|e:\\meusestudosguilherme\\atividades_escola\\projeto 02\\projeto02sln\\projeto02\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|e:\\meusestudosguilherme\\atividades_escola\\projeto 02\\projeto02sln\\projeto02\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|e:\\meusestudosguilherme\\atividades_escola\\projeto 02\\projeto02sln\\projeto02\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|e:\\meusestudosguilherme\\atividades_escola\\projeto 02\\projeto02sln\\projeto02\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|e:\\meusestudosguilherme\\atividades_escola\\projeto 02\\projeto02sln\\projeto02\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +46,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Transacao.cs",
-              "DocumentMoniker": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\Transacao.cs",
-              "RelativeDocumentMoniker": "Projeto02\\Transacao.cs",
-              "ToolTip": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\Transacao.cs*",
-              "RelativeToolTip": "Projeto02\\Transacao.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T13:54:21.341Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\Program.cs",
               "RelativeDocumentMoniker": "Projeto02\\Program.cs",
-              "ToolTip": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\Program.cs*",
-              "RelativeToolTip": "Projeto02\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "ToolTip": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\Program.cs",
+              "RelativeToolTip": "Projeto02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T13:38:51.804Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transacao.cs",
+              "DocumentMoniker": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\Transacao.cs",
+              "RelativeDocumentMoniker": "Projeto02\\Transacao.cs",
+              "ToolTip": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\Transacao.cs",
+              "RelativeToolTip": "Projeto02\\Transacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:54:21.341Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransacaoPix.cs",
+              "DocumentMoniker": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\TransacaoPix.cs",
+              "RelativeDocumentMoniker": "Projeto02\\TransacaoPix.cs",
+              "ToolTip": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\TransacaoPix.cs",
+              "RelativeToolTip": "Projeto02\\TransacaoPix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:57:42.667Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransacaoTed.cs",
+              "DocumentMoniker": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\TransacaoTed.cs",
+              "RelativeDocumentMoniker": "Projeto02\\TransacaoTed.cs",
+              "ToolTip": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\TransacaoTed.cs",
+              "RelativeToolTip": "Projeto02\\TransacaoTed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:11:48.253Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\Cliente.cs",
+              "RelativeDocumentMoniker": "Projeto02\\Cliente.cs",
+              "ToolTip": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\Cliente.cs",
+              "RelativeToolTip": "Projeto02\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:59:26.085Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PessoaFisica.cs",
+              "DocumentMoniker": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\PessoaFisica.cs",
+              "RelativeDocumentMoniker": "Projeto02\\PessoaFisica.cs",
+              "ToolTip": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\PessoaFisica.cs",
+              "RelativeToolTip": "Projeto02\\PessoaFisica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:04:20.453Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PessoaJuridica.cs",
+              "DocumentMoniker": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\PessoaJuridica.cs",
+              "RelativeDocumentMoniker": "Projeto02\\PessoaJuridica.cs",
+              "ToolTip": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\PessoaJuridica.cs",
+              "RelativeToolTip": "Projeto02\\PessoaJuridica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:06:48.741Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "Projeto02\\ContaBancaria.cs",
+              "ToolTip": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\ContaBancaria.cs",
+              "RelativeToolTip": "Projeto02\\ContaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:08:23.092Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContaCorrente.cs",
+              "DocumentMoniker": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\ContaCorrente.cs",
+              "RelativeDocumentMoniker": "Projeto02\\ContaCorrente.cs",
+              "ToolTip": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\ContaCorrente.cs",
+              "RelativeToolTip": "Projeto02\\ContaCorrente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:09:11.878Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]

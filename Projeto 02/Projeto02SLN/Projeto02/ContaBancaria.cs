@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Projeto02
 {
-    internal class ContaBancaria
+    public abstract class ContaBancaria
     {
+        public string NumeroConta { get; set; }
+        public Cliente Titular { get; set; } 
+        public decimal Saldo { get; protected set; }
+
+        public abstract void CalcularTarifa();
     }
 }

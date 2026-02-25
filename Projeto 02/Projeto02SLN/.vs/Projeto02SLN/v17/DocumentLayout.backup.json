@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|e:\\meusestudosguilherme\\atividades_escola\\projeto 02\\projeto02sln\\projeto02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|e:\\meusestudosguilherme\\atividades_escola\\projeto 02\\projeto02sln\\projeto02\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transacao.cs",
+              "DocumentMoniker": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\Transacao.cs",
+              "RelativeDocumentMoniker": "Projeto02\\Transacao.cs",
+              "ToolTip": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\Transacao.cs*",
+              "RelativeToolTip": "Projeto02\\Transacao.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:54:21.341Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\Program.cs",
               "RelativeDocumentMoniker": "Projeto02\\Program.cs",
-              "ToolTip": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\Program.cs",
-              "RelativeToolTip": "Projeto02\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAEAAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\Program.cs*",
+              "RelativeToolTip": "Projeto02\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T13:38:51.804Z",
               "EditorCaption": ""
