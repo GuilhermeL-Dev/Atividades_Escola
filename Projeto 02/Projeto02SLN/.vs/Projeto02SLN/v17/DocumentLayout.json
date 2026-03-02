@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|e:\\meusestudosguilherme\\atividades_escola\\projeto 02\\projeto02sln\\projeto02\\convertertrilhoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\convertertrilhoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|e:\\meusestudosguilherme\\atividades_escola\\projeto 02\\projeto02sln\\projeto02\\conversorbilhoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\conversorbilhoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|e:\\meusestudosguilherme\\atividades_escola\\projeto 02\\projeto02sln\\projeto02\\iconversorgrandeza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\iconversorgrandeza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|e:\\meusestudosguilherme\\atividades_escola\\projeto 02\\projeto02sln\\projeto02\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|e:\\meusestudosguilherme\\atividades_escola\\projeto 02\\projeto02sln\\projeto02\\transacaoted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\transacaoted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|e:\\meusestudosguilherme\\atividades_escola\\projeto 02\\projeto02sln\\projeto02\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|e:\\meusestudosguilherme\\atividades_escola\\projeto 02\\projeto02sln\\projeto02\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02A71D70-C91B-472D-9B0A-212DDE1B815F}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,7 +68,7 @@
               "RelativeDocumentMoniker": "Projeto02\\Program.cs",
               "ToolTip": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\Program.cs",
               "RelativeToolTip": "Projeto02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T13:38:51.804Z",
               "IsPinned": true,
@@ -64,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Transacao.cs",
               "DocumentMoniker": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\Transacao.cs",
               "RelativeDocumentMoniker": "Projeto02\\Transacao.cs",
@@ -77,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "TransacaoPix.cs",
               "DocumentMoniker": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\TransacaoPix.cs",
               "RelativeDocumentMoniker": "Projeto02\\TransacaoPix.cs",
@@ -90,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "TransacaoTed.cs",
               "DocumentMoniker": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\TransacaoTed.cs",
               "RelativeDocumentMoniker": "Projeto02\\TransacaoTed.cs",
@@ -103,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Cliente.cs",
               "DocumentMoniker": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\Cliente.cs",
               "RelativeDocumentMoniker": "Projeto02\\Cliente.cs",
@@ -116,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "PessoaFisica.cs",
               "DocumentMoniker": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\PessoaFisica.cs",
               "RelativeDocumentMoniker": "Projeto02\\PessoaFisica.cs",
@@ -125,11 +137,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T14:04:20.453Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "PessoaJuridica.cs",
               "DocumentMoniker": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\PessoaJuridica.cs",
               "RelativeDocumentMoniker": "Projeto02\\PessoaJuridica.cs",
@@ -142,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ContaBancaria.cs",
               "DocumentMoniker": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\ContaBancaria.cs",
               "RelativeDocumentMoniker": "Projeto02\\ContaBancaria.cs",
@@ -155,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ContaCorrente.cs",
               "DocumentMoniker": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\ContaCorrente.cs",
               "RelativeDocumentMoniker": "Projeto02\\ContaCorrente.cs",
@@ -165,6 +178,45 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T14:09:11.878Z",
               "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConverterTrilhoes.cs",
+              "DocumentMoniker": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\ConverterTrilhoes.cs",
+              "RelativeDocumentMoniker": "Projeto02\\ConverterTrilhoes.cs",
+              "ToolTip": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\ConverterTrilhoes.cs",
+              "RelativeToolTip": "Projeto02\\ConverterTrilhoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T12:17:10.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConversorBilhoes.cs",
+              "DocumentMoniker": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\ConversorBilhoes.cs",
+              "RelativeDocumentMoniker": "Projeto02\\ConversorBilhoes.cs",
+              "ToolTip": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\ConversorBilhoes.cs",
+              "RelativeToolTip": "Projeto02\\ConversorBilhoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T12:16:45.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IConversorGrandeza.cs",
+              "DocumentMoniker": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\IConversorGrandeza.cs",
+              "RelativeDocumentMoniker": "Projeto02\\IConversorGrandeza.cs",
+              "ToolTip": "E:\\MeusEstudosGuilherme\\Atividades_Escola\\Projeto 02\\Projeto02SLN\\Projeto02\\IConversorGrandeza.cs",
+              "RelativeToolTip": "Projeto02\\IConversorGrandeza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T12:14:02.56Z",
+              "EditorCaption": ""
             }
           ]
         }

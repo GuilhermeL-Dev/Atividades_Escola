@@ -40,6 +40,11 @@ class Program
         Console.WriteLine($"PIX de R$ {meuPix.Valor} é válido? {meuPix.Validar()}");
         Console.WriteLine($"TED de R$ {meuTed.Valor} é válido? {meuTed.Validar()}");
 
-        Console.ReadKey();
+    }
+
+    public static void ExibirRelatorio(decimal valorBruto, IConversorGrandeza conversor)
+    {
+        decimal valorConvertido = conversor.Converter(valorBruto);
+        Console.WriteLine($"Valor convertido: {valorConvertido:N2} {conversor.ObterSimbolo()}");
     }
 }

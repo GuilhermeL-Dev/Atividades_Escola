@@ -8,5 +8,7 @@ namespace Projeto02
 {
     internal interface IConversorGrandeza
     {
+        decimal Converter(decimal valor);
+        string ObterSimbolo();
     }
 }
